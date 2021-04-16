@@ -139,6 +139,14 @@ section {
     margin: 4rem 0px;
 }
 
+.tagline .desc {
+    font-weight: 300;
+    font-size: 2.4rem;
+    width: 60rem;
+    margin: 3rem;
+    text-align: center;
+}
+
 .desc, .desc a {
     font-size: 1.8rem ;
     font-weight: 400;
