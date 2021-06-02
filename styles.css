@@ -238,6 +238,9 @@ section {
     font-size: 30px;
     margin: 0px 0px -8px;
 }
+.github-link.big {
+    font-size: xxx-large;
+}
 .github-link:hover {
     color: var(--cyan);
 }
@@ -272,6 +275,13 @@ section {
 .footer {
     padding-bottom: 0;
     padding-top: 0;
+}
+
+.more-github {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 @media only screen and (max-width: 768px) {
